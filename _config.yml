@@ -2,11 +2,11 @@ title: Life of a nerdy guy
 author: pro-panda
 subtitle: The life of a frustrated engineer
 
-url: "https://vstkl.github.io"
+url: "https://vstkl.xyz"
 baseurl: "/"
 
 footer_only_homepage: true
-footer_url: "https://vstkl.github.io"
+footer_url: "https://vstkl.xyz"
 footer_text: "Theme borrowed with ♡ from rhl-bthr"
 
 profile-picture: assets/profile.png
@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https:/vstkl.github.io"
+   absolute-link: "https:/vstkl.xyz"
