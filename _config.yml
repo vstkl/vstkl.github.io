@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://vstkl.xyz/jekyll-cv"
+   absolute-link: "https://cv.vstkl.xyz/"
