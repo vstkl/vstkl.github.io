@@ -18,7 +18,8 @@ for anyone as messy as I am, [Obsidian](https://obsidian.md/) is a must have app
 It was not without a fight. I have never done much with ruby, and there were some issues with versions, imports, and ACL config when running in docker, but eventually I found a way.
 
 The first thing I did was to do my CV in jekyll to try it out. I made a Makefile to make my life a bit easier which looked something like this:
-```makefile
+
+```make
 JEKYLL_VERSION=3.8
 PORT=4000
 build:
@@ -26,8 +27,10 @@ build:
 serve:
 	docker run --rm  -p${PORT}:4000  --volume="${PWD}:/srv/jekyll"   -it jekyll/jekyll:${JEKYLL_VERSION}   jekyll serve
 shell:
-	docker run --rm  -p{PORT}:4000  --volume="jekyll-cv:/srv/jekyll" --volume="${PWD}:/srv/old"   -it jekyll/jekyll:${JEKYLL_VERSION}  sh 
+	docker run --rm  -p{PORT}:4000  --volume="jekyll-cv:/srv/jekyll" --volume="${PWD}:/srv/old"   -it jekyll/jekyll:${JEKYLL_VERSION}  sh
+
 ```
+
 nothing fancy, but it made my life a bit easier.
 
 The CV itself is rather easy and it's just one-file-contains-all kinda philosophy, which now in retrospect feels a bit against the whole idea of using jekyll, but well, live and learn. 
