@@ -18,7 +18,7 @@ for anyone as messy as I am, [Obsidian](https://obsidian.md/) is a must have app
 It was not without a fight. I have never done much with ruby, and there were some issues with versions, imports, and ACL config when running in docker, but eventually I found a way.
 
 The first thing I did was to do my CV in jekyll to try it out. I made a Makefile to make my life a bit easier which looked something like this:
-```makefile title:"Makefile"
+```makefile
 JEKYLL_VERSION=3.8
 PORT=4000
 build:
