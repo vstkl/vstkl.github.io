@@ -2,7 +2,7 @@ title: Parchment
 author: pro-panda
 subtitle: The life of a frustrated engineer
 
-url: "https://vstkl.xyz"
+url: "https://vstkl.github.io"
 baseurl: "/"
 
 footer_only_homepage: true
@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://cv.vstkl.xyz"
+   absolute-link: "https://vstkl.github.io"
