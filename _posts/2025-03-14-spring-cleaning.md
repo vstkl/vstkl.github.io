@@ -19,7 +19,7 @@ It was not without a fight. I have never done much with ruby, and there were som
 
 The first thing I did was to do my CV in jekyll to try it out. I made a Makefile to make my life a bit easier which looked something like this:
 
-```make
+```
 JEKYLL_VERSION=3.8
 PORT=4000
 build:
