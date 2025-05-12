@@ -9,10 +9,13 @@ tags:
 ---
 My friend has just asked me some questions about AI
 
-Hele obecné asi jen nějaký blbuvzodrny nástřel - jak to vlastně funguje a kde se to vzalo a jak je možný, že to funguje?
-Jak to používas ty?
-Jestli tě na tom taky něco děsí?
-Jakou v tom.vidis budoucnost?
-Kolik dat to vlastně sezere? Jak se to.uklada?
+- jak to vlastně funguje a kde se to vzalo a jak je možný, že to funguje?
+
+- Jak to používas ty?
+
+- Jestli tě na tom taky něco děsí?
+
+- Jakou v tom.vidis budoucnost?
+- Kolik dat to vlastně sezere? Jak se to.uklada?
 
 Farewell, V
