@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Spring cleaning
-subtitle: How I finally made my data less messy
+title: AI in 2025
+subtitle: How do I approach AI in 2025
 tags:
-  - organization
-  - notes
-  - tasks
+  - AI
+  - opinion
 ---
-My friend has just asked me some questions about AI
+- how does it actually work and where did it come from and how is it possible that it works?
 
-- jak to vlastně funguje a kde se to vzalo a jak je možný, že to funguje?
+- How do you use it?
 
-- Jak to používas ty?
+- Does anything about it scare you?
 
-- Jestli tě na tom taky něco děsí?
+- What future do you see in it?
 
-- Jakou v tom.vidis budoucnost?
-- Kolik dat to vlastně sezere? Jak se to.uklada?
+- How much data does it actually consume? How is it stored?
 
 Farewell, V
