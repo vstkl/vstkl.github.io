@@ -17,6 +17,9 @@ body {
     background-color: #FFFFDD;
     min-height: 100%;
 }
+p {
+    text-align: justify;
+}
 a {
     text-decoration: none;
     color: $accent;
