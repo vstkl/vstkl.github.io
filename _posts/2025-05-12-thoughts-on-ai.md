@@ -5,6 +5,7 @@ subtitle: How do I approach AI in 2025
 tags:
   - AI
   - opinion
+  - huggingface
 ---
 ## how does it actually work and where did it come from and how is it possible that it works?
 
