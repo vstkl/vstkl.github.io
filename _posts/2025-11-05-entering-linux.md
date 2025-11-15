@@ -8,6 +8,11 @@ tags:
   - guide
   - OS
 ---
+
+So you've decided to switch to linux... I'm glad to hear that! Here is my take on what you need to know before you migrate.
+
+Don't worry, you don't need to understand everything written here. Think of it more like a reference of what you ever might need for using linux.
+
 ## What essentially is linux
 
 Linux is, let's say open-source alternative to windows. The actual definition of what linux is or isn't is slightly more complex, but for sake of this article's main audience shall be Windows users willing to migrate to Linux.
