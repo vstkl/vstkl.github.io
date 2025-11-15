@@ -25,7 +25,13 @@ The pro's of Linux compared to Windows are for example:
 - **opensource** - anything that runs on your computer can be audited, and therefore verify it runs there with ***NO*** malicious intentions
 
 - **FREE** - need I say more?
+
 ![freerealestate](../assets/freerealestate.jpg)
+
+## So what's this "distro"?
+
+Distro is essantially a composed package of linux with some programs, that allow for creating one-stop-shop way of getting the system to install - yes, you can install core linux and work from there,
+but for starters it's best to use pre-built distributions of linux that are verified to work out of the box.
 
 ## Dictionary
 
