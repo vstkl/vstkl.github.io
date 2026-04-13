@@ -1,4 +1,4 @@
----
+8---
 layout: default
 title: About Me
 ---
@@ -29,10 +29,6 @@ But it was exhaustive...
 It was not company's fault, my team lead(Thank you Lukas) was amazing till the last day, and I am grateful I've had the honor to work with them.
 
 I had to move back to my hometown. 
-
-Found a girlfriend.
-
-Got happier. Life was good...
 
 And then, when I've worked a mindless helpdesk job, it gave me time to heal and reach my dreamjob.
 
